@@ -2,6 +2,8 @@
 
 A single-page Curriculum Vitae built with **semantic HTML only** (no CSS or JavaScript). This project focuses on structuring content correctly — headings, sections, articles, lists, and metadata — so it's ready for a styling pass in a future project.
 
+Project brief: [roadmap.sh/projects/single-page-cv](https://roadmap.sh/projects/single-page-cv)
+
 ## Project Structure
 
 ```
